@@ -19,7 +19,7 @@
 
 ## About me
 
-Hey, I’m Iulian. I make games, write tools for tasks I’d rather automate, and like figuring out what makes things tick. A lot of my projects start with a small question, like whether a game mechanic would feel better with different timing.
+Hey, I’m Iulian. I write tools for tasks I’d rather automate, and like figuring out what makes things tick. A lot of my projects start with a small question, like whether a game mechanic would feel better with different timing.
 
 I like getting a first version working, then coming back to see what I can simplify. Lately I’ve been getting more comfortable with lower-level programming and exploring how software behaves when performance matters. I’m also curious about cybersecurity.
 
