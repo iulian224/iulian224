@@ -1,7 +1,7 @@
 <h1 align="center">Iulian</h1>
 
 <p align="center">
-  <strong>Software developer and game maker from Romania</strong>
+  <strong>Software developer from Romania</strong>
 </p>
 
 <p align="center">
